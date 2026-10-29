@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShieldNet</string>
+    <string name="title_protection">Device Protection</string>
+    <string name="add_website_hint">Enter website (e.g. reddit.com)</string>
+    <string name="btn_add_website">Restrict Website</string>
+    <string name="title_restricted_domains">Restricted Websites</string>
+</resources>

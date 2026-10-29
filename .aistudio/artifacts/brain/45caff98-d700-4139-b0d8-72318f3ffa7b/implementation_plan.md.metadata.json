@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan to remove all simulated hardware mockups (battery, Wi-Fi, clock, camera punch-hole, phone frame) and adapt ShieldNet into a clean, full-width responsive application opening directly to the Home dashboard.",
+  "updatedAt":  "2026-10-29T08:19:02.330015858Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
